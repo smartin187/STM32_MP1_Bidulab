@@ -6,6 +6,8 @@ Open ST Linux : [https://www.st.com/en/embedded-software/stm32-mpu-openstlinux-d
 
 > Si vous avez besoin de transférer des fichiers, utiliser un clé USB ou directement sur la mico SD (mais néssessite ortinateur avec Linux).
 
+Vous aurez en plus des [projet a faire sur STM-32](#projet-stm-32).
+
 Voici les 3 étapes de ce guide :
 
 ## Configuration
@@ -30,4 +32,15 @@ Voici les 3 étapes de ce guide :
 > Un interpréteur Python3 est aussi disponible, plus facile a utiliser car pas de cross-compilation.
 
 [Programmation en C](Programmation_C/programmation_C.md)
+
+
+## Projet STM-32
+
+Voici d'autre projet que vous pouvez faire sur STM-32.
+
+### Projet serveur HTML
+
+Il est possible d'ébergé un serveur sur STM-32 pour éberger un site web.
+
+[Projet serveur HTML](Projet_Web/projet_web.md)
 
