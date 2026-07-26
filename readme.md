@@ -8,7 +8,13 @@ Open ST Linux : [https://www.st.com/en/embedded-software/stm32-mpu-openstlinux-d
 
 Vous aurez en plus des [projet a faire sur STM-32](#projet-stm-32).
 
-Voici les 3 étapes de ce guide :
+## Introduction
+
+Dans ce chapitre vous n'allez pas encore utiliser le STM32, mais vous allez découvrir cette carte. Si vous connessais déjà, allez directement à la partie [Configuration](#configuration).
+
+### Présentation de Open St Linux
+
+[Présentation de Open St Linux](introduction/présentation_open_st_linux.md)
 
 ## Configuration
 
