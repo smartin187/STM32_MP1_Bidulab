@@ -4,6 +4,16 @@ Open ST Linux est une distribution minimaliste embarqué, qui peut être utilise
 
 Elle est construite avec Yocto.
 
+## Installation d'Open ST Linux
+
+En général une carte micro SD est fournie avec le STM32MP1-DK avec Open ST Linux déjà installer. Mais si vous avez besion de réinstaller Open ST Linux, par exemple sur une nouvele carte ou en cas de casse système, voici comment installer Open ST Linux (sur carte micro SD ou autre support de stockage) :
+
+### Récupérer l'image d'Open ST Linux
+
+Récupérer Open ST Linux sur GitHub, et cherche l'image officiel ou utiliser Yocto : [Open ST Linux](https://github.com/STMicroelectronics/meta-st-openstlinux). Si cela est compliquer, utiliser l'image de ce dépot (voir ci-dessous).
+
+> Si Récupérer Open ST Linux est trop compiliquer, vous trouverez une image prête dans les releases de ce dépot **en cas de backup** : [image Open ST Linux](https://github.com/smartin187/STM32_MP1_Bidulab/releases/tag/ajout_backup). Pour installer l'image, télécharger l'archive zip, décompresser et utiliser `dd` pour copier l'image sur la carte micro SD. Toutes les commandes sont dans la realise.<br>Mais attention : **cette image n'est pas forcément la version la plus récente d'Open ST Linux**.
+
 ## Gestionnaire de paquet
 
 Open ST Linux utilise `apt` pour installer des paquets. Mais attention : Open ST Linux n'utilise pas les dépôts officiels Debian/Ubuntu, mais un dépôt de ST. Pas tout les packet seront disponible sur ce dépot...
