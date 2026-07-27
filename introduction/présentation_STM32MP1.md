@@ -18,6 +18,7 @@ Ce processeur est limité en ressource, mais il est prévue pour faire tourner u
 - Micro SD (généralement utiliser par l'OS)
 - USB C "Power in" pour l'alimentation. **Attention a ne pas confondre avec l'USB C qui n'est pas prévu pour l'alimentation.** "Power in" est écrit a coté du port USB C d'alimentation.
 - GPIO (connections pour des périphériques externes)
+- Micro USB ST-Link (pour déboguage avancé)
 
 ## Documentation officiel
 
