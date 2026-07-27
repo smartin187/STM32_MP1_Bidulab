@@ -12,6 +12,10 @@ Vous aurez en plus des [projet a faire sur STM-32](#projet-stm-32).
 
 Dans ce chapitre vous n'allez pas encore utiliser le STM32, mais vous allez découvrir cette carte. Si vous connessais déjà, allez directement à la partie [Configuration](#configuration).
 
+### Présentation de la carte STM32MP135F-DK
+
+[Présentation de la carte STM32MP135F-DK](introduction/présentation_STM32MP1.md)
+
 ### Présentation de Open St Linux
 
 [Présentation de Open St Linux](introduction/présentation_open_st_linux.md)
