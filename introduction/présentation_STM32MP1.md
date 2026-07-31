@@ -52,6 +52,8 @@ Un port Micro USB pour déboguage.
 
 Le bouton "Wake up" permet de ralummer la carte après un arrêt via `shutdown`.
 
+Le bouton "Reset" permet de redémarer le STM32.
+
 #### Sélécteur de boot
 
 Contrairement à un ordinateur classique, pour choisire le périphérique de boot, cela ne se fait pas via un bios mais via ces interrupteurs.
