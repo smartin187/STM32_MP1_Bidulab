@@ -35,6 +35,12 @@ Dans ce chapitre vous n'allez pas encore utiliser le STM32, mais vous allez déc
 
 [réglage de l'heure](réglage_heur/réglage_heur.md)
 
+## Connection ssh
+
+La connection ssh est très utile pour utiliser le STM32 à distance ou pour transférer des fichiers.
+
+[connection ssh](connection_ssh/connection_ssd.md)
+
 ## Outil utiles
 
 Certin outil peuvent être utile sur le STM32. Voici comment les installer.
