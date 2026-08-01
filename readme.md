@@ -35,6 +35,12 @@ Dans ce chapitre vous n'allez pas encore utiliser le STM32, mais vous allez déc
 
 [réglage de l'heure](réglage_heur/réglage_heur.md)
 
+## Outil utiles
+
+Certin outil peuvent être utile sur le STM32. Voici comment les installer.
+
+[Installation d'outil](outil_utiles/outil_utiles.md)
+
 ## Programmation en C
 
 > Sur STM32 avec Open ST Linux, vous devez cross-compiler en ARM32 (armhf ou armel).
