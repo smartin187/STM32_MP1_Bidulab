@@ -10,10 +10,11 @@ Dans notre exemple nous allons utiliser un fichier HTML simple.
 
 Vous le trouverais dans `site_web/index.html`.
 
->Vous pouvez créer votre propre HTML ou modifier celui-ci.
+> Vous pouvez créer votre propre HTML ou modifier celui-ci.
 
 Copier le fichier `index.html` dans le répertoire `/home/weston/projet_web/` (copier le fichier via clé USB ou en utilisant la carte micro SD).
 
+> Copier le fichier `start.sh` pour lancer le serveur plus facilement...
 
 ### Lancement du serveur web
 
@@ -28,6 +29,7 @@ python3 -m http.server 8000   # lancer le serveur web sur le port 8000
 
 > Si vous fermer le terminal où a était lancer le serveur, celui-ci s'arrêtera...
 
+> Vous pouvez aussi utiliser le script `start.sh` pour lancer le serveur web. Il est dans le répertoire du projet HTML.
 
 ### Connection au serveur via un navigateur web
 
